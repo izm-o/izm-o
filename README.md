@@ -10,5 +10,9 @@
 </p>
 リポジトリ・詳細は<a href="https://github.com/izm-o/website_farm">こちら</a>&nbsp;&nbsp;&nbsp;&nbsp;Webサイトは<a href="https://izm-o.github.io/website_farm/">こちら</a>
 
-<br><img align="left" src="https://github-readme-stats.vercel.app/api?username=izm-o&count_private=true&show_icons=true">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izm-o">
+<br><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=izm-o&count_private=true&show_icons=true">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izm-o">
+</a>
